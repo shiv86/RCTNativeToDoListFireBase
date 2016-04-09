@@ -1,0 +1,3 @@
+rootProject.name = 'ToDoListFirebase'
+
+include ':app'
